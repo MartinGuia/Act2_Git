@@ -1,3 +1,4 @@
 Esta es mi tarea de git
 Aqui realizare los cambios y commits
-Martin Garcia Guia
+Martin Garcia Guia, edad 20 años. De salamanca Gto.
+Agregamos nuevas lineas para el siguiente commit.
